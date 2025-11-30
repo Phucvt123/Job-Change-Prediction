@@ -16,7 +16,11 @@
 5. [Usage](#usage)
 6. [Results](#results)
 7. [Project Structure](#project-structure)
-
+8. [Challenges & Solutions](#challenges--solutions)
+9. [Future Improvements](#future-improvements)
+10. [Contributors](#contributors)
+11. [Contact](#contact)
+12. [License](#license)
 
 ---
 
@@ -151,8 +155,8 @@ Tất cả được **vector hóa 100% bằng NumPy**, mỗi vòng lặp chỉ t
 
 1.  **Clone dự án:**
     ```bash
-    git clone https://github.com/Phucvt123/Project
-    cd Project
+    git clone https://github.com/Phucvt123/Job-Change-Prediction
+    cd Job-Change-Prediction
     ```
 
 2.  **Tạo môi trường ảo (Khuyên dùng):**
